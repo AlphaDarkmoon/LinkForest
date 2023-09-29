@@ -1,11 +1,14 @@
-![LinkFOrest Image](readmeRes/banner_logo.png)
+<div align="center">
+<img height="100" src="readmeRes/banner_logo.png"  />
+</div>
 
 # LinkForest: Navigating a Curated Pathway of Links
 
 Welcome to LinkForest, your curated pathway to a plethora of links. Journey effortlessly through this digital realm, unlocking a spectrum of resources, insights, and connections with just a click. Explore and discover, for here lies a hub tailored just for you. Let's navigate through this digital forest together!
 
-![LinkFOrest Image](readmeRes/main.png)
-
+<div align="center">
+<img height="100" src="readmeRes/main.png"  />
+</div>
 
 ## Latest Version: [v1.0]()
 
@@ -20,17 +23,21 @@ To customize LinkForest according to your specific needs, follow the [Docs]() (D
 Furthermore, the documentation will educate you on how to host any static website for free.
 
 - Understanding Static Websites: A static website is a type of website that delivers content exactly as it is stored to the user's web browser. The content is fixed and remains the same regardless of who is accessing the website or when they access it. It's typically written in HTML and CSS, and sometimes includes a bit of JavaScript for interactivity, but the content doesn't change dynamically.
-    - some common examples are resume websites, portfolio websites, brochure websites, one-off landing pages, and other informational or read-only sites.
-
+  - some common examples are resume websites, portfolio websites, brochure websites, one-off landing pages, and other informational or read-only sites.
 
 # Documentation
 
 There is a proper Documentation that will teach you how to edit and update the Website as per your needs and requirements.
 
-![Docs Screenshot 1](https://i.ibb.co/283DFMS/docs.png)
-![Docs Screenshot 2](https://i.ibb.co/T4zxGGy/docs2.png)
+<div align="center">
+<img height="100" src="https://i.ibb.co/283DFMS/docs.png"  />
+</div>
 
-Read the Docs carefully | [Documentation]()
+<div align="center">
+<img height="100" src="https://i.ibb.co/T4zxGGy/docs2.png"  />
+</div>
+
+Read the Docs carefully | [Documentation](https://alphadarkmoon.github.io/docs.github.io/Docs/LinkForest/index.html)
 
 ## Tools
 
@@ -46,10 +53,12 @@ Read the Docs carefully | [Documentation]()
 ## Source & Credits
 
 - **Images / icons:**
+
   - [Wallpaper Abyss](https://wall.alphacoders.com)
   - [Icons8](https://icons8.com/)
 
 - **Fonts:**
+
   - [CSS Fonts](https://fonts.googleapis.com/css?family=Anonymous+Pro)
 
 - **Scripts:**
@@ -60,6 +69,7 @@ Read the Docs carefully | [Documentation]()
 ## Support
 
 If this documentation doesn't answer your questions, please contact us via:
+
 - Email: omnishots.alpha@gmail.com
 - Reddit: u/RekkusuYash
 - Instagram: @alphadarkmoon.github
@@ -75,3 +85,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+#### All contributions Accepted.
