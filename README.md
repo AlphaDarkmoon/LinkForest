@@ -1,5 +1,5 @@
 <div align="center">
-<img height="100" src="readmeRes/banner_logo.png"  />
+<img src="readmeRes/banner_logo.png"/>
 </div>
 
 # LinkForest: Navigating a Curated Pathway of Links
@@ -7,7 +7,7 @@
 Welcome to LinkForest, your curated pathway to a plethora of links. Journey effortlessly through this digital realm, unlocking a spectrum of resources, insights, and connections with just a click. Explore and discover, for here lies a hub tailored just for you. Let's navigate through this digital forest together!
 
 <div align="center">
-<img height="100" src="readmeRes/main.png"  />
+<img src="readmeRes/main.png"  />
 </div>
 
 ## Latest Version: [v1.0]()
@@ -30,11 +30,11 @@ Furthermore, the documentation will educate you on how to host any static websit
 There is a proper Documentation that will teach you how to edit and update the Website as per your needs and requirements.
 
 <div align="center">
-<img height="100" src="https://i.ibb.co/283DFMS/docs.png"  />
+<img src="https://i.ibb.co/283DFMS/docs.png"  />
 </div>
 
 <div align="center">
-<img height="100" src="https://i.ibb.co/T4zxGGy/docs2.png"  />
+<img src="https://i.ibb.co/T4zxGGy/docs2.png"  />
 </div>
 
 Read the Docs carefully | [Documentation](https://alphadarkmoon.github.io/docs.github.io/Docs/LinkForest/index.html)
